@@ -1,0 +1,1 @@
+This project was created while going through TheOdinProject web development course. It implements the classic rock-paper-scissors game in Javascript and runs on the console.
